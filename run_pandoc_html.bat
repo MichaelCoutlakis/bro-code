@@ -1,0 +1,1 @@
+pandoc -s "the-bro-code.md" -o the-bro-code.html --css pandoc.css
